@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-protfolio/static/css/main.516c62f0.css",
-    "main.js": "/react-protfolio/static/js/main.984eba13.js",
-    "static/js/726.b792280e.chunk.js": "/react-protfolio/static/js/726.b792280e.chunk.js",
-    "static/media/profile.png": "/react-protfolio/static/media/profile.ce7eea271ddf20c0be41.png",
-    "static/media/bgIMG.png": "/react-protfolio/static/media/bgIMG.c39101e520e2997fc6d4.png",
-    "static/media/bgWhite.png": "/react-protfolio/static/media/bgWhite.79658cadae50b3b16ee5.png",
-    "static/media/reactlang.png": "/react-protfolio/static/media/reactlang.4127b36258b5e9dc8f88.png",
-    "static/media/mobile.png": "/react-protfolio/static/media/mobile.145d9ce0157a56f8fcd8.png",
-    "static/media/email.png": "/react-protfolio/static/media/email.37b9e890eea501421fbf.png",
-    "static/media/adobe.png": "/react-protfolio/static/media/adobe.c4878319cd8d6c70f407.png",
-    "index.html": "/react-protfolio/index.html",
-    "static/media/circle.svg": "/react-protfolio/static/media/circle.ae5f84b3853b9e34aa83cf8dada715c5.svg",
-    "main.516c62f0.css.map": "/react-protfolio/static/css/main.516c62f0.css.map",
-    "main.984eba13.js.map": "/react-protfolio/static/js/main.984eba13.js.map",
-    "726.b792280e.chunk.js.map": "/react-protfolio/static/js/726.b792280e.chunk.js.map"
+    "main.css": "/Omar-Zenhom/static/css/main.a309ac9a.css",
+    "main.js": "/Omar-Zenhom/static/js/main.46828b80.js",
+    "static/js/726.b792280e.chunk.js": "/Omar-Zenhom/static/js/726.b792280e.chunk.js",
+    "static/media/profile.png": "/Omar-Zenhom/static/media/profile.ce7eea271ddf20c0be41.png",
+    "static/media/bgIMG.png": "/Omar-Zenhom/static/media/bgIMG.c39101e520e2997fc6d4.png",
+    "static/media/bgWhite.png": "/Omar-Zenhom/static/media/bgWhite.79658cadae50b3b16ee5.png",
+    "static/media/reactlang.png": "/Omar-Zenhom/static/media/reactlang.4127b36258b5e9dc8f88.png",
+    "static/media/mobile.png": "/Omar-Zenhom/static/media/mobile.145d9ce0157a56f8fcd8.png",
+    "static/media/email.png": "/Omar-Zenhom/static/media/email.37b9e890eea501421fbf.png",
+    "static/media/adobe.png": "/Omar-Zenhom/static/media/adobe.c4878319cd8d6c70f407.png",
+    "index.html": "/Omar-Zenhom/index.html",
+    "static/media/circle.svg": "/Omar-Zenhom/static/media/circle.ae5f84b3853b9e34aa83cf8dada715c5.svg",
+    "main.a309ac9a.css.map": "/Omar-Zenhom/static/css/main.a309ac9a.css.map",
+    "main.46828b80.js.map": "/Omar-Zenhom/static/js/main.46828b80.js.map",
+    "726.b792280e.chunk.js.map": "/Omar-Zenhom/static/js/726.b792280e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.516c62f0.css",
-    "static/js/main.984eba13.js"
+    "static/css/main.a309ac9a.css",
+    "static/js/main.46828b80.js"
   ]
 }
