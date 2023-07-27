@@ -1,0 +1,83 @@
+// Experience.scss
+
+.experience {
+    .app__experience-container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 2rem;
+        margin: 2rem 0;
+    }
+
+    .app__experience-container>div {
+        flex: 1;
+        background: var(--white-color);
+        padding: 2.4rem 5rem;
+        border-radius: 2rem;
+        border: 1px solid transparent;
+        transition: var(--transition);
+    }
+
+    .app__experience-container>div:hover {
+        background: transparent;
+        border-color: #313bac;
+        cursor: default;
+    }
+
+    .app__experience-container>div h3 {
+        text-align: center;
+        margin-bottom: 2rem;
+        color: var(--color-primary);
+    }
+
+    .experience__content {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        justify-content: start;
+        align-items: start;
+        gap: 2rem;
+        .app__flex {
+            justify-content: start;
+        }
+    }
+
+    .experience__details {
+        display: flex;
+        gap: 1rem;
+    }
+
+    .experience__details-icon {
+        margin-right: 15px;
+        margin-bottom: 15px;
+        color: var(--secondary-color);
+    }
+}
+
+/* =================== MEDIA QUERIES (MEDIUM DEVICES) ==================== */
+@media screen and (min-width: 1024px) {
+    .app__experience-container {
+        width: auto;
+    }
+
+    .app__experience-container>div {
+        width: 60%;
+        padding: 2rem;
+        margin: inherit;
+    }
+
+    .experience__content {
+        padding: 1rem;
+    }
+}
+
+/* =================== MEDIA QUERIES (SMALL DEVICES) ==================== */
+@media screen and (min-width: 400px) {
+    .app__experience-container {
+        gap: 1rem;
+    }
+
+    .app__experience-container>div {
+        width: 60%;
+        padding: 2rem 1rem;
+    }
+}
