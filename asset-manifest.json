@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Omar-Zenhom/static/css/main.a309ac9a.css",
-    "main.js": "/Omar-Zenhom/static/js/main.46828b80.js",
+    "main.js": "/Omar-Zenhom/static/js/main.f7de08a7.js",
     "static/js/726.b792280e.chunk.js": "/Omar-Zenhom/static/js/726.b792280e.chunk.js",
     "static/media/profile.png": "/Omar-Zenhom/static/media/profile.ce7eea271ddf20c0be41.png",
     "static/media/bgIMG.png": "/Omar-Zenhom/static/media/bgIMG.c39101e520e2997fc6d4.png",
@@ -13,11 +13,11 @@
     "index.html": "/Omar-Zenhom/index.html",
     "static/media/circle.svg": "/Omar-Zenhom/static/media/circle.ae5f84b3853b9e34aa83cf8dada715c5.svg",
     "main.a309ac9a.css.map": "/Omar-Zenhom/static/css/main.a309ac9a.css.map",
-    "main.46828b80.js.map": "/Omar-Zenhom/static/js/main.46828b80.js.map",
+    "main.f7de08a7.js.map": "/Omar-Zenhom/static/js/main.f7de08a7.js.map",
     "726.b792280e.chunk.js.map": "/Omar-Zenhom/static/js/726.b792280e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a309ac9a.css",
-    "static/js/main.46828b80.js"
+    "static/js/main.f7de08a7.js"
   ]
 }
